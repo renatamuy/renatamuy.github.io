@@ -24,7 +24,7 @@ reproducible research, and interactive data visualization.
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Muylaert_CV_2023.pdf)<br/>
 [google scholar](https://scholar.google.com/citations?hl=en&user=psh9sXwAAAAJ&view_op=list_works&sortby=pubdate)<br/>
-[pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=broman+kw)<br/>
+[pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=muylaert+rl)<br/>
 <!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
 [github](https://github.com/renatamuy)<br/>
 [blog]() <br/>
