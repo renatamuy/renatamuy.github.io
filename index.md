@@ -19,7 +19,7 @@ keywords: Muylaert, QTL, R/qtl, quantitative trait loci, statistics, statistical
 <tr>
   <td class="left">
     <a href="publpics/rqtl2_fig1.html">
-        <img src="publpics/rqtl2_fig1c.png" alt="Muylaert et al. (2019)" title="Muylaert et al. (2019)"/>
+        <img src="publpics/hotspot_plosntd.png" alt="Muylaert et al. (2019)" title="Muylaert et al. (2019)"/>
     </a>
   </td>
   <td class="right">
