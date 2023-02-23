@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Karl Muylaert
-description: Karl Muylaert is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+title: Renata Muylaert
+description: Renata Muylaert is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
 keywords: Muylaert, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
 ---
 
