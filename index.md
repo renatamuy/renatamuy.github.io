@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: Renata Muylaert
-description: Renata Muylaert is
-keywords: Muylaert, statistics, GIS, disease ecology, biodiversity
+title: Karl Muylaert
+description: Karl Muylaert is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+keywords: Muylaert, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
 ---
 
 <div class="navbar">
@@ -19,7 +19,7 @@ keywords: Muylaert, statistics, GIS, disease ecology, biodiversity
 <tr>
   <td class="left">
     <a href="publpics/rqtl2_fig1.html">
-        <img src="publpics/hotspot_plosntd.png" alt="Muylaert et al. (2019)" title="Muylaert et al. (2019)"/>
+        <img src="publpics/rqtl2_fig1c.png" alt="Muylaert et al. (2019)" title="Muylaert et al. (2019)"/>
     </a>
   </td>
   <td class="right">
@@ -32,7 +32,7 @@ keywords: Muylaert, statistics, GIS, disease ecology, biodiversity
 <tr>
   <td class="left">
     <a href="publpics/samplemixups_fig7.html">
-        <img src="publpics/hotspot_plosntd.png" alt="Muylaert et al. (2015)" title="Muylaert et al. (2015) "/>
+        <img src="publpics/samplemixups_fig7.png" alt="Muylaert et al. (2015)" title="Muylaert et al. (2015) "/>
     </a>
   </td>
   <td class="right">
