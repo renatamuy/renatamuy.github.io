@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Renata Muylaert
-description: Renata Muylaert is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
-keywords: Muylaert, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+description: Renata Muylaert is
+keywords: Muylaert, statistics, GIS, disease ecology, biodiversity
 ---
 
 <div class="navbar">
@@ -32,7 +32,7 @@ keywords: Muylaert, QTL, R/qtl, quantitative trait loci, statistics, statistical
 <tr>
   <td class="left">
     <a href="publpics/samplemixups_fig7.html">
-        <img src="publpics/samplemixups_fig7.png" alt="Muylaert et al. (2015)" title="Muylaert et al. (2015) "/>
+        <img src="publpics/hotspot_plosntd.png" alt="Muylaert et al. (2015)" title="Muylaert et al. (2015) "/>
     </a>
   </td>
   <td class="right">

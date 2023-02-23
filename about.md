@@ -9,7 +9,7 @@ Renata is a postdoc in the
 at the University of Wisconsin&ndash;Madison;
 research in disease ecology and biodiversity.
 
-Karl received a BS in [biology](https://uwm.edu/math)
+Renata received a BS in [biology](https://uwm.edu/math)
 in 2011 from the
 University of S?o Carlos, and a
 PhD in [ecology and biodiversity]( ) in 2020 from the
