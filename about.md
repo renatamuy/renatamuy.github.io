@@ -13,7 +13,7 @@ research in statistical genetics; developer of
 
 Karl received a BS in [biology](https://uwm.edu/math)
 in 2011 from the
-University of São Carlos, and a
+University of Sao Carlos, and a
 PhD in [ecology and biodiversity](https://statistics.berkeley.edu) in 2020 from the
 University of Sao Paulo, Rio Claro; her previous PhD advisor was
 [Milton C. Ribeiro](https://www.wehi.edu.au/people/terry-speed).
