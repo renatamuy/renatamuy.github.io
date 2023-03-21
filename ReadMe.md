@@ -1,6 +1,6 @@
 ## Renata Muylaert&rsquo;s website
 
-See [renatamuy.github.io](renatamuy.github.io).
+See [my website](renatamuy.github.io).
 
 ---
 
