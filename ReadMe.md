@@ -1,6 +1,6 @@
 ## Renata Muylaert&rsquo;s website
 
-See [muymaps](https://linktr.ee/muymaps).
+See [renatamuy.github.io](renatamuy.github.io).
 
 ---
 
