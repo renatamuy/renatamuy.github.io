@@ -7,19 +7,14 @@ description: Karl Broman's publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#book">book</a></li>
+            <li><a href="#books">books and chapters</a></li>
             <li><a href="#articles">articles</a></li>
-            <li><a href="#editorials">editorials</a></li>
-            <li><a href="#letters">letters</a></li>
-            <li><a href="#chapters">chapters</a></li>
-            <li><a href="#techreports">tech reports</a></li>
-            <li><a href="#thesis">dissertation</a></li>
         </ul>
     </div>
 </div>
 
 
-### <a name="book"></a>book
+### <a name="books"></a>books and chapters
 
 [Phyllostomid Bats: A Unique Mammalian Radiation
 Edited by Theodore H. Fleming, Liliana M. Dávalos, and Marco A. R. Mello. 2020. UCP](https://press.uchicago.edu/ucp/books/book/chicago/P/bo50700096.html)
@@ -28,10 +23,9 @@ Edited by Theodore H. Fleming, Liliana M. Dávalos, and Marco A. R. Mello. 2020.
 
 ### <a name="articles"></a>journal articles
 
-#### to appear
+All my articles
+[![pdf](icons16/pdf-icon.png)](https://drive.google.com/drive/u/0/folders/1F26kKkEPB0nrFNr7oFbsE7-4sHwihNWw)
+[![doi](icons16/doi-icon.png)](https://scholar.google.com/citations?user=psh9sXwAAAAJ&hl=en)
 
-Muylaert et al. (2023)
-[![pdf](icons16/pdf-icon.png)](https://www.nature.com/articles/s41564-023-01326-w.pdf)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1038/s41564-023-01326-w)
 
 ---

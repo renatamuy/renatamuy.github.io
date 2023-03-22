@@ -6,9 +6,9 @@ title: Karl Broman
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="https://kbroman.org/blog">blog</a></li>
+          <li><a href="{{ BASE_PATH }}/Muylaert_CV_2023.pdf">cv</a></li>
+          <li><a href="https://github.com/renatamuy">github</a></li>
+          <li><a href="https://marcoarmello.wordpress.com/">blog</a></li>
       </ul>
   </div>
 </div>
