@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Karl Broman
+title: Renata Muylaert
 ---
 
 <div class="navbar">
