@@ -4,14 +4,14 @@ title: about
 description: Renata Muylaert is  a postdoctoral researcher in disease ecology 
 ---
 
-Renata is postdoc in the
+Renata is a postdoc in disease ecology and epidemiology at the
 [mEpiLab](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=117322) at Massey University, New Zealand. 
 
 Renata received a BS in [biology]()
 in 2011 from the Federal University of Sao Carlos, a masters in Zoology and a PhD in [ecology and biodiversity]() in 2020 from the Sao Paulo State University (UNESP), Rio Claro.
 
 Renata is interested in ecology, biodiversity, disease ecology, open science, open software,
-reproducible research, and interactive data visualization.
+reproducible research, communication, and interactive data visualization.
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Muylaert_CV_2023.pdf)<br/>
 [orcid](https://orcid.org): [0000-0002-6466-6210](https://orcid.org/0000-0002-6466-6210)<br/>
