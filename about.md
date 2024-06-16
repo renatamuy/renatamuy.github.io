@@ -13,7 +13,7 @@ in 2011 from the Federal University of Sao Carlos, a masters in Zoology and a Ph
 Renata is interested in ecology, biodiversity, disease ecology, open science, open software,
 reproducible research, communication, and interactive data visualization.
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Muylaert_CV_2023.pdf)<br/>
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Muylaert_CV.pdf)<br/>
 [orcid](https://orcid.org): [0000-0002-6466-6210](https://orcid.org/0000-0002-6466-6210)<br/>
 [google scholar](https://scholar.google.com/citations?user=psh9sXwAAAAJ&hl=en)<br/>
 [pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=muylaert+rl)<br/>
