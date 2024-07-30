@@ -8,7 +8,7 @@ Renata is a postdoc in disease ecology and epidemiology at the
 [mEpiLab](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=117322) at Massey University, New Zealand. 
 
 Renata received a BS in [biology]()
-in 2011 from the Federal University of Sao Carlos, a masters in Zoology and a PhD in [ecology and biodiversity]() in 2020 from the Sao Paulo State University (UNESP), Rio Claro.
+in 2011 from the Federal University of Sao Carlos, a masters in Zoology and a PhD in [ecology and biodiversity]() in 2020 from Sao Paulo State University (UNESP), Rio Claro.
 
 Renata is interested in ecology, biodiversity, disease ecology, open science, open software,
 reproducible research, communication, and interactive data visualization.
