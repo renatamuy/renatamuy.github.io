@@ -1,14 +1,12 @@
-github_users:
-  - torvalds
-  - alshedivat
+#github_users:
+#  - mauriciovancine
+#  - marmello77
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
+  - renatamuy/R_portability
+  - renatamuy/dynamic
+  - renatamuy/hotspots
   - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+

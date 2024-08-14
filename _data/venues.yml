@@ -1,9 +1,6 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"LEEC":
+  url: https://github.com/LEEClab
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
+"Atlantic":
+  url: https://github.com/LEEClab/Atlantic_series
   color: "#009f36"
