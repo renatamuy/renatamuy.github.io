@@ -4,37 +4,23 @@ author:
   affiliation: 
     - Molecular Epidemiology and Public Health Laboratory
     - School of Veterinary Science, Massey University
-    - Palmerston North, 4442, New Zealand
-  email: "renatamuy@gmail.com"
+    - Palmerston North, New Zealand
 
 sections:
-  - title: Academic Links
-    links:
-      - name: Linktree
-        url: "https://linktr.ee/muymaps"
-      - name: Orcid
-        url: "https://orcid.org/0000-0002-6466-6210"
-      - name: Google Scholar
-        url: "https://scholar.google.com/citations?hl=en&user=psh9sXwAAAAJ&view_op=list_works&sortby=pubdate"
-      - name: Scopus
-        url: "https://www.scopus.com/authid/detail.uri?authorId=56115267900"
-      - name: Research Gate
-        url: "https://www.researchgate.net/profile/Renata-Muylaert"
-
   - title: Tertiary Education
     education:
       - degree: Doctor in Ecology and Biodiversity
-        institution: Department of Ecology, São Paulo State University (UNESP), Brazil
+        institution: Department of Ecology, São Paulo State University, Brazil
         period: 2015-2019
-        thesis_title: "Eco-epidemiology and spatiotemporal dynamics of hantavirus disease with contributions to open data generation and use."
-      - degree: Master of Science (Zoology)
-        institution: Department of Ecology, São Paulo State University (UNESP), Brazil
+        thesis_title: Eco-epidemiology and spatiotemporal dynamics of hantavirus disease with contributions to open data generation and use.
+      - degree: Master of Science, Zoology
+        institution: Department of Ecology, São Paulo State University, Brazil
         period: 2012-2014
         thesis_title: "Multi-scale landscape influences and fragmentation threshold in bats in the Cerrado"
       - degree: Bachelor of Biological Sciences
         institution: Center of Biological Sciences, Federal University of São Carlos (UFSCAR), Brazil
         period: 2007-2011
-        thesis_title: "Interindividual variations in fruit preferences of the yellow-shouldered bat Sturnira lilium (Chiroptera: Phyllostomidae) in a cafeteria experiment"
+        thesis_title: Interindividual variations in fruit preferences of the yellow-shouldered bat Sturnira lilium in a cafeteria experiment
 
   - title: Productivity Indicators
     google_scholar_metrics:
@@ -47,7 +33,7 @@ sections:
       - name: Portuguese
         proficiency: First language
       - name: English
-        proficiency: Fluent (Academic IELTS)
+        proficiency: Fluent, Academic IELTS
       - name: Spanish
         proficiency: Basic
 
@@ -58,7 +44,7 @@ sections:
       - Spatial-temporal modelling
       - Emerging infectious diseases
       - Climate change
-      - Geographic information system (GIS)
+      - Geographic information system, GIS
       - Network science
       - Science communication
       - Landscape ecology
@@ -72,22 +58,22 @@ sections:
     experience:
       - role: Postdoctoral fellow in Epidemiology and One Health
         period: 2023-2024
-        institution: Molecular Epidemiology and Public Health Lab (mEpilab), School of Veterinary Sciences, Massey University, New Zealand
+        institution: Molecular Epidemiology and Public Health Lab, School of Veterinary Sciences, Massey University, New Zealand
         project: Linking Habitat Fragmentation and Biodiversity Loss to the Risk of Infectious Disease Emergence.
       - role: Postdoctoral fellow in Disease Ecology
         period: 2020-2023
-        institution: Molecular Epidemiology and Public Health Lab (mEpilab), School of Veterinary Sciences, Massey University, New Zealand
+        institution: Molecular Epidemiology and Public Health Lab, School of Veterinary Sciences, Massey University, New Zealand
         project: Linking Habitat Fragmentation and Biodiversity Loss to the Risk of Infectious Disease Emergence.
       - role: Postdoctoral fellow in Disease Ecology
         period: 2020
-        institution: Molecular Epidemiology and Public Health Lab (mEpilab), School of Veterinary Sciences, Massey University, New Zealand
+        institution: Molecular Epidemiology and Public Health Lab, School of Veterinary Sciences, Massey University, New Zealand
         project: Unpacking infection spillover dynamics.
       - role: Visitor researcher (sandwich PhD)
         period: 2018-2019
-        institution: Molecular Epidemiology and Public Health Lab (mEpilab), Massey University, New Zealand
+        institution: Molecular Epidemiology and Public Health Lab, Massey University, New Zealand
         projects: 
-          - FAPESP 15/17739-4: Landscape effects and the interaction between mammals and hantavirus in the Atlantic Forest
-          - FAPESP 17/21816-0: Spatiotemporal dynamics of hantavirus disease in a fast-changing country
+          - FAPESP 15-17739-4 Landscape effects and the interaction between mammals and hantavirus in the Atlantic Forest
+          - FAPESP 17-21816-0 Spatiotemporal dynamics of hantavirus disease in a fast-changing country
       - role: Visitor researcher (sandwich MSc)
         period: 2013-2014
         institution: Prof. Richard Stevens' Lab, Louisiana State University and Texas Tech University, USA
@@ -101,17 +87,17 @@ sections:
       - role: Co-chair
         period: 2022-2025
         group: IUCN CEM Human Health and Ecosystem Management Thematic Group
-        url: "https://www.iucn.org/our-union/commissions/group/iucn-cem-human-health-and-ecosystem-management-thematic-group"
+        url: https://www.iucn.org/our-union/commissions/group/iucn-cem-human-health-and-ecosystem-management-thematic-group
       - role: Media coordinator
         period: 2024
         group: Organisation of sustainability actions in MEpiLegends, a Massey Green impact team
-        url: "https://www.massey.ac.nz/about/sustainability-at-massey/green-impact/"
+        url: https://www.massey.ac.nz/about/sustainability-at-massey/green-impact/
 
   - title: Other Field Work
     field_work:
       - activity: Hemolymph sampling from freshwater mussels for toxoplasmosis screening
         period: 2024
-        project: Abi Shoup's PhD project 'Enlisting Kakahi - developing a model system to protect Maui dolphins from toxoplasmosis'
+        project: Abi Shoup, PhD project Enlisting Kakahi - developing a model system to protect Maui dolphins from toxoplasmosis
         hours: 72h
       - activity: Viral shedding by flying foxes in Gold Coast
         period: 2018
@@ -133,7 +119,7 @@ sections:
         period: 2012
         project: Latin American course on frugivory and seed dispersal by mammals and birds field course
         days: 15 days
-        institution: São Paulo State University (UNESP), Brazil
+        institution: São Paulo State University, Brazil
         prof: Mauro Galetti
       - activity: Plant sampling in Wetlands
         period: 2010
@@ -142,7 +128,7 @@ sections:
       - role: Field Biologist
         period: 2011
         projects:
-          - Fauna monitoring (Chiroptera) in Jirau, Brazil
+          - Fauna monitoring, Chiroptera, in Jirau, Brazil
             hours: 360h
             company: Arcadis Tetraplan
           - Fauna monitoring (Chiroptera) in Tunas do Paraná, Brazil
@@ -155,7 +141,7 @@ sections:
         institution: Federal University of São Carlos (UFSCar), Brazil
       - role: Intern
         period: 2008
-        project: Wild animal care intern: mammals, birds, and reptiles
+        project: Wild animal care intern mammals, birds, and reptiles
         hours: 144h
         institution: Ecological Park PESC, São Carlos, Brazil
       - role: Bauhinia holophylla population ecology
@@ -170,19 +156,19 @@ sections:
           period: 2019
           course: Statistical Models in Ecology
           hours: 30h
-          institution: São Paulo State University (UNESP), Brazil
+          institution: São Paulo State University, Brazil
         - role: Course Coordinator
           period: 2016
           course: Community Ecology
           hours: 60h
-          institution: São Paulo State University (UNESP), Brazil
+          institution: São Paulo State University, Brazil
         - role: Course Coordinator
           period: 2015
           course: Ecosystems
           hours: 60h
-          institution: São Paulo State University (UNESP), Brazil
+          institution: São Paulo State University, Brazil
       guest_lecturing:
-        - course: Integrative Studies in Veterinary Science IV 227325
+        - course: Integrative Studies in Veterinary Science IV227325
           period: 2024
           institution: School of Veterinary Science, Massey University
           activity: Mentoring research project proposal development - One Health
@@ -199,9 +185,9 @@ sections:
           activity: Guest lecture on human health and ecosystem management
         - course: Statistical Models in Ecology
           period: 2019
-          institution: São Paulo State University (UNESP), Brazil
+          institution: São Paulo State University, Brazil
           hours: 60h
         - course: Landscape Ecology
           period: 2015
-          institution: São Paulo State University (UNESP), Brazil
+          institution: São Paulo State University, Brazil
           hours: 15h
