@@ -5,21 +5,21 @@ author:
     - Molecular Epidemiology and Public Health Laboratory
     - School of Veterinary Science, Massey University
     - Palmerston North, 4442, New Zealand
-  email: renatamuy@gmail.com
+  email: "renatamuy@gmail.com"
 
 sections:
   - title: Academic Links
     links:
       - name: Linktree
-        url: https://linktr.ee/muymaps
+        url: "https://linktr.ee/muymaps"
       - name: Orcid
-        url: https://orcid.org/0000-0002-6466-6210
+        url: "https://orcid.org/0000-0002-6466-6210"
       - name: Google Scholar
-        url: https://scholar.google.com/citations?hl=en&user=psh9sXwAAAAJ&view_op=list_works&sortby=pubdate
+        url: "https://scholar.google.com/citations?hl=en&user=psh9sXwAAAAJ&view_op=list_works&sortby=pubdate"
       - name: Scopus
-        url: https://www.scopus.com/authid/detail.uri?authorId=56115267900
+        url: "https://www.scopus.com/authid/detail.uri?authorId=56115267900"
       - name: Research Gate
-        url: https://www.researchgate.net/profile/Renata-Muylaert
+        url: "https://www.researchgate.net/profile/Renata-Muylaert"
 
   - title: Tertiary Education
     education:
@@ -85,7 +85,7 @@ sections:
       - role: Visitor researcher (sandwich PhD)
         period: 2018-2019
         institution: Molecular Epidemiology and Public Health Lab (mEpilab), Massey University, New Zealand
-        project: 
+        projects: 
           - FAPESP 15/17739-4: Landscape effects and the interaction between mammals and hantavirus in the Atlantic Forest
           - FAPESP 17/21816-0: Spatiotemporal dynamics of hantavirus disease in a fast-changing country
       - role: Visitor researcher (sandwich MSc)
@@ -101,11 +101,11 @@ sections:
       - role: Co-chair
         period: 2022-2025
         group: IUCN CEM Human Health and Ecosystem Management Thematic Group
-        url: https://www.iucn.org/our-union/commissions/group/iucn-cem-human-health-and-ecosystem-management-thematic-group
+        url: "https://www.iucn.org/our-union/commissions/group/iucn-cem-human-health-and-ecosystem-management-thematic-group"
       - role: Media coordinator
         period: 2024
         group: Organisation of sustainability actions in MEpiLegends, a Massey Green impact team
-        url: https://www.massey.ac.nz/about/sustainability-at-massey/green-impact/
+        url: "https://www.massey.ac.nz/about/sustainability-at-massey/green-impact/"
 
   - title: Other Field Work
     field_work:
