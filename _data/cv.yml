@@ -32,16 +32,16 @@
 - title: Productivity Indicators
   type: list
   contents:
-    - <u>Citations:</u> 1532.
-    - <u>h-index:</u> 22.
-    - <u>i10-index:</u> 33.
+    - Citations: 1532
+    - h-index: 22
+    - i10-index: 33
 
 - title: Proficiency in Languages
   type: list
   contents:
-    - Portuguese: First language.
-    - English: Fluent (Academic IELTS).
-    - Spanish: Basic.
+    - Portuguese: First language
+    - English: Fluent (Academic IELTS)
+    - Spanish: Basic
 
 - title: Academic Expertise
   type: nested_list
@@ -95,7 +95,8 @@
     - title: Intern
       institution: Federal University of São Carlos (UFSCar), Brazil
       year: 2007 - 2010
-      description: Tutorial education program.
+      description:
+        - Tutorial education program.
 
 - title: Leadership
   type: time_table
@@ -106,108 +107,3 @@
     - title: Media Coordinator
       institution: MEpiLegends, Massey Green impact team
       year: 2024
-
-- title: Other Field Work
-  type: time_table
-  contents:
-    - title: Hemolymph Sampling from Freshwater Mussels for Toxoplasmosis Screening
-      year: 2024
-      description:
-        - Abi Shoup - PhD project on Enlisting Kākahi - developing a model system to protect Māui dolphins from toxoplasmosis (72h).
-    - title: Viral Shedding by Flying Foxes in Gold Coast
-      year: 2018
-      description:
-        - Devin Jone's PhD project on flying foxes and virology (6h).
-    - title: Cave Soil Sampling in Terra Ronca State
-      year: 2017
-      description:
-        - Caio C. P. Paula - PhD project in one of the largest Cerrado karstic areas in Brazil (36h).
-    - title: Edge Effects in São Carlos
-      year: 2015
-      description:
-        - Pavel Dodonov's PhD project on edge effects in a Cerrado area in Brazil (12h).
-    - title: Bats and Hantavirus in SP
-      year: 2013-2014
-      description:
-        - Gilberto Sabino-Santos Jr's PhD project on virology (100h).
-    - title: Serra do Mar National Park
-      year: 2012
-      description:
-        - Latin American course on frugivory and seed dispersal by mammals and birds field course (15 days).
-    - title: Plant Sampling in Wetlands
-      year: 2010
-      description:
-        - Fernanda Tiberio's project on functional diversity of plants in an estuary in southeastern Brazil (80h).
-    - title: Field Biologist
-      year: 2011
-      description:
-        - Fauna monitoring (Chiroptera) in Jirau, Brazil (360h). Company: Arcadis Tetraplan.
-    - title: Field Biologist
-      year: 2011
-      description:
-        - Fauna monitoring (Chiroptera) in Tunas do Paraná, Brazil (360h). Company: CIA Ambiental.
-    - title: Intern
-      year: 2009-2010
-      description:
-        - Bat telemetry (480 h). Institution: Federal University of São Carlos (UFSCar), Brazil.
-    - title: Intern
-      year: 2008
-      description:
-        - Wild animal care intern (144 h): mammals, birds, and reptiles. Institution: Ecological Park PESC, São Carlos, Brazil.
-    - title: Bauhinia holophylla Population Ecology
-      year: 2007
-      description:
-        - Julia R. Estevao's project on population ecology of a bat-pollinated plant in a Cerrado area in Brazil (30 h).
-
-- title: Professional Experience - Teaching
-  type: time_table
-  contents:
-    - title: Course Coordinator
-      institution: São Paulo State University (UNESP), Brazil
-      year: 2019
-      description:
-        - Statistical Models in Ecology (30 h), undergraduate course (Ecology).
-    - title: Course Coordinator
-      institution: São Paulo State University (UNESP), Brazil
-      year: 2016
-      description:
-        - Community Ecology (60 h), undergraduate course (Biology).
-    - title: Course Coordinator
-      institution: São Paulo State University (UNESP), Brazil
-      year: 2015
-      description:
-        - Ecosystems (60 h), undergraduate course (Biology).
-
-- title: Guest Lecturing
-  type: time_table
-  contents:
-    - title: Integrative Studies in Veterinary Science IV 227325
-      institution: School of Veterinary Science, Massey University
-      year: 2024
-      description:
-        - Mentoring research project proposal development - One Health.
-    - title: One Health News
-      institution: Hopkirk Research Institute, Massey University, New Zealand
-      year: 2024
-    - title: Veterinary Public Health Tutorials
-      institution: School of Veterinary Science, Massey University, New Zealand
-      year: 2023
-      description:
-        - Artificial intelligence and zoonotic spillover.
-    - title: Embracing the Bots
-      institution: Hopkirk Research Institute, Massey University, New Zealand
-      year: 2023
-    - title: UN SDGs and Your Research
-      institution: Hopkirk Research Institute, Massey University, New Zealand
-      year: 2022
-    - title: Science Communication: Your Voice in English
-      institution: São Paulo State University (UNESP), Brazil
-      year: 2022
-    - title: Strategies for Improving Reproducibility in Science
-      institution: Hopkirk Research Institute, Massey University, New Zealand
-      year: 2021
-    - title: Unhealthy Landscapes and Rodentization in Brazil
-      institution: Hopkirk Research Institute, Massey University, New Zealand
-      year: 2018
-    - title: The Future of Zoonotic Risk Prediction
-      institution: USP Sao Paulo University
