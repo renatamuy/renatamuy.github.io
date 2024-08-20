@@ -10,15 +10,15 @@ sections:
   - title: Tertiary Education
     education:
       - degree: Doctor in Ecology and Biodiversity
-        institution: Department of Ecology, São Paulo State University, Brazil
+        institution: Department of Ecology, Sao Paulo State University, Brazil
         period: 2015-2019
         thesis_title: Eco-epidemiology and spatiotemporal dynamics of hantavirus disease with contributions to open data generation and use.
       - degree: Master of Science, Zoology
-        institution: Department of Ecology, São Paulo State University, Brazil
+        institution: Department of Ecology, Sao Paulo State University, Brazil
         period: 2012-2014
-        thesis_title: "Multi-scale landscape influences and fragmentation threshold in bats in the Cerrado"
+        thesis_title: Multi-scale landscape influences and fragmentation threshold in bats in the Cerrado
       - degree: Bachelor of Biological Sciences
-        institution: Center of Biological Sciences, Federal University of São Carlos (UFSCAR), Brazil
+        institution: Center of Biological Sciences, Federal University of Sao Carlos (UFSCAR), Brazil
         period: 2007-2011
         thesis_title: Interindividual variations in fruit preferences of the yellow-shouldered bat Sturnira lilium in a cafeteria experiment
 
@@ -80,7 +80,7 @@ sections:
         project: Influence of local and landscape filters in neotropical bat diversity within Brazilian savanna
       - role: Intern
         period: 2007-2010
-        institution: Tutorial education program, Federal University of São Carlos (UFSCar), Brazil
+        institution: Tutorial education program, Federal University of Sao Carlos (UFSCar), Brazil
 
   - title: Leadership
     leadership:
@@ -107,7 +107,7 @@ sections:
         period: 2017
         project: Caio C. P. Paula's PhD project in one of the largest Cerrado karstic areas in Brazil
         hours: 36h
-      - activity: Edge effects in São Carlos
+      - activity: Edge effects in Sao Carlos
         period: 2015
         project: Pavel Dodonov's PhD project on edge effects in a Cerrado area in Brazil
         hours: 12h
@@ -119,7 +119,7 @@ sections:
         period: 2012
         project: Latin American course on frugivory and seed dispersal by mammals and birds field course
         days: 15 days
-        institution: São Paulo State University, Brazil
+        institution: Sao Paulo State University, Brazil
         prof: Mauro Galetti
       - activity: Plant sampling in Wetlands
         period: 2010
@@ -131,19 +131,19 @@ sections:
           - Fauna monitoring, Chiroptera, in Jirau, Brazil
             hours: 360h
             company: Arcadis Tetraplan
-          - Fauna monitoring (Chiroptera) in Tunas do Paraná, Brazil
+          - Fauna monitoring (Chiroptera) in Tunas do Paran?, Brazil
             hours: 360h
             company: CIA Ambiental
       - role: Intern
         period: 2009-2010
         project: Bat telemetry
         hours: 480h
-        institution: Federal University of São Carlos (UFSCar), Brazil
+        institution: Federal University of Sao Carlos (UFSCar), Brazil
       - role: Intern
         period: 2008
         project: Wild animal care intern mammals, birds, and reptiles
         hours: 144h
-        institution: Ecological Park PESC, São Carlos, Brazil
+        institution: Ecological Park PESC, Sao Carlos, Brazil
       - role: Bauhinia holophylla population ecology
         period: 2007
         project: Julia R. Estevao's project on population ecology of a bat-pollinated plant in a Cerrado area in Brazil
@@ -156,17 +156,17 @@ sections:
           period: 2019
           course: Statistical Models in Ecology
           hours: 30h
-          institution: São Paulo State University, Brazil
+          institution: Sao Paulo State University, Brazil
         - role: Course Coordinator
           period: 2016
           course: Community Ecology
           hours: 60h
-          institution: São Paulo State University, Brazil
+          institution: Sao Paulo State University, Brazil
         - role: Course Coordinator
           period: 2015
           course: Ecosystems
           hours: 60h
-          institution: São Paulo State University, Brazil
+          institution: Sao Paulo State University, Brazil
       guest_lecturing:
         - course: Integrative Studies in Veterinary Science IV227325
           period: 2024
@@ -185,9 +185,9 @@ sections:
           activity: Guest lecture on human health and ecosystem management
         - course: Statistical Models in Ecology
           period: 2019
-          institution: São Paulo State University, Brazil
+          institution: Sao Paulo State University, Brazil
           hours: 60h
         - course: Landscape Ecology
           period: 2015
-          institution: São Paulo State University, Brazil
+          institution: Sao Paulo State University, Brazil
           hours: 15h
