@@ -2,9 +2,11 @@
 
 ## Partner labs
 
-[mEpilab](https://ns-proxy1.massey.ac.nz/massey/expertise/profile.cfm?stref=117322)
-[Ecological Synthesis Lab](https://marcomellolab.wordpress.com/)
-[Spatial Ecology and Conservation lab](https://github.com/LEEClab)
+:white_check_mark: [mEpilab](https://ns-proxy1.massey.ac.nz/massey/expertise/profile.cfm?stref=117322) :mask: :earth_asia: :bat:
+
+:white_check_mark: [Ecological Synthesis Lab](https://marcomellolab.wordpress.com/) :chart_with_upwards_trend: :sparkler: 
+
+:white_check_mark: [Spatial Ecology and Conservation lab](https://github.com/LEEClab) :satellite: :earth_americas:
 
 ## Research Interests
 
@@ -44,3 +46,11 @@ Biodiversity
 Spatial ecology
 Risk analysis
 Global change biology
+
+## Other interests
+
+:bowling:
+
+:video_game:
+
+:guitar:
