@@ -1,200 +1,213 @@
-author:
-  name: Dr Renata Muylaert
-  affiliation: 
-    - Molecular Epidemiology and Public Health Laboratory
-    - School of Veterinary Science, Massey University
-    - Palmerston North, 4442, New Zealand
-  contact:
-    email: renatamuy@gmail.com
-    phone: +64 (210) 878 8433
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Dr. Renata Muylaert
+    - name: Affiliation
+      value: Molecular Epidemiology and Public Health Laboratory, School of Veterinary Science, Massey University, Palmerston North, 4442, New Zealand
+    - name: Email
+      value: renatamuy@gmail.com
+    - name: Tel
+      value: +64 (210) 878 8433
 
-education:
-  - degree: Doctor in Ecology and Biodiversity
-    institution: Department of Ecology, São Paulo State University (UNESP), Brazil
-    years: 2015-2019
-    title: Eco-epidemiology and spatiotemporal dynamics of hantavirus disease with contributions to open data generation and use.
-  - degree: Master of Science (Zoology)
-    institution: Department of Ecology, São Paulo State University (UNESP), Brazil
-    years: 2012-2014
-    title: Multi-scale landscape influences and fragmentation threshold in bats in the Cerrado.
-  - degree: Bachelor of Biological Sciences
-    institution: Center of Biological Sciences, Federal University of São Carlos (UFSCAR), Brazil
-    years: 2007-2011
-    title: Interindividual variations in fruit preferences of the yellow-shouldered bat Sturnira lilium in a cafeteria experiment.
+- title: Education
+  type: time_table
+  contents:
+    - title: Doctor in Ecology and Biodiversity
+      institution: Department of Ecology, São Paulo State University (UNESP), Brazil
+      year: 2015 - 2019
+      description:
+        - Eco-epidemiology and spatiotemporal dynamics of hantavirus disease with contributions to open data generation and use.
+    - title: Master of Science (Zoology)
+      institution: Department of Ecology, São Paulo State University (UNESP), Brazil
+      year: 2012 - 2014
+      description:
+        - Multi-scale landscape influences and fragmentation threshold in bats in the Cerrado.
+    - title: Bachelor of Biological Sciences
+      institution: Center of Biological Sciences, Federal University of São Carlos (UFSCAR), Brazil
+      year: 2007 - 2011
+      description:
+        - Interindividual variations in fruit preferences of the yellow-shouldered bat Sturnira lilium in a cafeteria experiment.
 
-productivity_indicators:
-  google_scholar:
-    citations: 1532
-    h_index: 22
-    i10_index: 33
-
-languages:
-  - Portuguese: First language
-  - English: Fluent
-  - Spanish: Basic
-
-expertise:
-  - Spatial ecology
-  - Biodiversity and Conservation
-  - Disease ecology
-  - Spatial-temporal modelling
-  - Emerging infectious diseases
-  - Climate change
-  - Geographic information system (GIS)
-  - Network science
-  - Science communication
-  - Landscape ecology
-  - One Health
-  - INLA
-  - R
-  - Reproducible workflows
-  - Interdisciplinary research
-
-experience:
-  research:
-    - title: Postdoctoral fellow in Epidemiology and One Health
-      years: 2023-2024
-      institution: Massey University, New Zealand
-      project: Linking Habitat Fragmentation and Biodiversity Loss to the Risk of Infectious Disease Emergence.
-    - title: Postdoctoral fellow in Disease Ecology
-      years: 2020-2023
-      institution: Massey University, New Zealand
-      project: Linking Habitat Fragmentation and Biodiversity Loss to the Risk of Infectious Disease Emergence.
-    - title: Postdoctoral fellow in Disease Ecology
-      years: 2020
-      institution: Massey University, New Zealand
-      project: Unpacking infection spillover dynamics.
-    - title: Visitor researcher (sandwich PhD)
-      years: 2018-2019
-      institution: Massey University, New Zealand
-      project: FAPESP 15/17739-4: Landscape effects and the interaction between mammals and hantavirus in the Atlantic Forest; FAPESP 17/21816-0: Spatiotemporal dynamics of hantavirus disease in a fast-changing country.
-    - title: Visitor researcher (sandwich MSc)
-      years: 2013-2014
-      institution: Louisiana State University and Texas Tech University, USA
-      project: Influence of local and landscape filters in neotropical bat diversity within Brazilian savanna.
-    - title: Intern
-      years: 2007-2010
-      institution: Federal University of São Carlos (UFSCar), Brazil
-
-  leadership:
-    - title: Co-chair
-      years: 2022-2025
-      institution: IUCN CEM Human Health and Ecosystem Management Thematic Group
-    - title: Media coordinator
-      years: 2024
-      institution: Organisation of sustainability actions in MEpiLegends, a Massey Green impact team
-
-  fieldwork:
-    - title: Hemolymph sampling from freshwater mussels for toxoplasmosis screening
-      years: 2024
-      project: Abi Shoup's PhD project 'Enlisting Kākahi - developing a model system to protect Māui dolphins from toxoplasmosis'
-    - title: Viral shedding by flying foxes in Gold Coast
-      years: 2018
-      project: Devin Jone's PhD project on flying foxes and virology
-    - title: Cave soil sampling in Terra Ronca State
-      years: 2017
-      project: Caio C. P. Paula's PhD project in one of the largest Cerrado karstic areas in Brazil
-    - title: Edge effects in São Carlos
-      years: 2015
-      project: Pavel Dodonov's PhD project on edge effects in a Cerrado area in Brazil
-    - title: Bats and hantavirus in SP
-      years: 2013-2014
-      project: Gilberto Sabino-Santos Jr's PhD project on virology
-    - title: Serra do Mar National Park
-      years: 2012
-      project: Latin American course on frugivory and seed dispersal by mammals and birds field course, São Paulo State University (UNESP), Brazil. Prof. Mauro Galetti.
-    - title: Plant sampling in Wetlands
-      years: 2010
-      project: Fernanda Tiberio's project on functional diversity of plants in an estuary in southeastern Brazil
-    - title: Field Biologist
-      years: 2011
-      project: Fauna monitoring (Chiroptera) in Jirau, Brazil, Company: Arcadis Tetraplan
-    - title: Field Biologist
-      years: 2011
-      project: Fauna monitoring (Chiroptera) in Tunas do Paraná, Brazil, Company: CIA Ambiental.
-    - title: Intern
-      years: 2009-2010
-      project: Bat telemetry, Institution: Federal University of São Carlos (UFSCar), Brazil
-    - title: Intern
-      years: 2008
-      project: Wild animal care intern: mammals, birds, and reptiles, Institution: Ecological Park PESC, São Carlos, Brazil
-    - title: Bauhinia holophylla population ecology
-      years: 2007
-      project: Julia R. Estevao's project on population ecology of a bat-pollinated plant in a Cerrado area in Brazil
-
-  teaching:
-    undergraduate_courses:
-      - title: Course Coordinator
-        years: 2019
-        course: Statistical Models in Ecology (30h)
-        institution: São Paulo State University (UNESP), Brazil
-      - title: Course Coordinator
-        years: 2016
-        course: Community Ecology (60h)
-        institution: São Paulo State University (UNESP), Brazil
-      - title: Course Coordinator
-        years: 2015
-        course: Ecosystems (60h)
-        institution: São Paulo State University (UNESP), Brazil
-    guest_lecturing:
-      - course: Integrative Studies in Veterinary Science IV 227325
-        years: 2024
-        institution: School of Veterinary Science, Massey University
-        topic: Mentoring research project proposal development - One Health
-      - course: One Health News
-        years: 2024
-        institution: Hopkirk Research Institute, Massey University, New Zealand
-      - course: Veterinary Public Health Tutorials
-        years: 2023
-        institution: School of Veterinary Science, Massey University, New Zealand
-        topic: Artificial intelligence and zoonotic spillover
-      - course: Embracing the bots
-        years: 2023
-        institution: Hopkirk Research Institute, Massey University, New Zealand
-      - course: UN SDGs and your research
-        years: 2022
-        institution: Hopkirk Research Institute, Massey University, New Zealand
-      - course: Science communication: your voice in English
-        years: 2022
-        institution: São Paulo State University (UNESP), Brazil
-      - course: Strategies for improving reproducibility in Science
-        years: 2021
-        institution: Hopkirk Research Institute, Massey University, New Zealand
-      - course: Unhealthy landscapes and rodentization in Brazil
-        years: 2018
-        institution: Hopkirk Research Institute, Massey University, New Zealand
-      - course: The future of Zoonotic risk prediction
-        years: 2021
-        institution: USP São Paulo University
-      - course: Disease Ecology
-        years: 2019
-        institution: São Paulo State University (UNESP)
-      - course: Ecological Networks
-        years: 2012-2017
-        institution: Federal University of Minas Gerais (UFMG), Brazil
-      - course: Landscape Ecology
-        years: 2019
-        institution: São Paulo State University (UNESP), Brazil
-      - course: Seed dispersal by bats
-        years: 2014
-        institution: São Paulo State University (UNESP), Brazil
-
-    short_courses:
-      - course: Threshold analysis in Ecology
-        years: 2017
-        event: Brazilian Mammal Congress
-        location: Pirenópolis, Goiás, Brazil
-      - course: Introduction to Network Ecology
-        years: 2017
-        institution: São Paulo State University (UNESP), Rio Claro, São Paulo, Brazil
-      - course: Bat Ecology and Conservation
-        years: 2016
-        institution: São Paulo State University (UNESP), Rio Claro, São Paulo, Brazil
-      - course: Bat Ecology
-        years: 2014
-        institution: São Paulo State University (UNESP), Rio Claro,
-
-- title: Other Interests
+- title: Productivity Indicators
   type: list
   contents:
-    - <u>Hobbies:</u> Dance, Guitar, Travel.
+    - <u>Citations:</u> 1532.
+    - <u>h-index:</u> 22.
+    - <u>i10-index:</u> 33.
+
+- title: Proficiency in Languages
+  type: list
+  contents:
+    - Portuguese: First language.
+    - English: Fluent (Academic IELTS).
+    - Spanish: Basic.
+
+- title: Academic Expertise
+  type: nested_list
+  contents:
+    - title: Areas of Expertise
+      items:
+        - Spatial ecology
+        - Biodiversity and Conservation
+        - Disease ecology
+        - Spatial-temporal modeling
+        - Emerging infectious diseases
+        - Climate change
+        - Geographic information system (GIS)
+        - Network science
+        - Science communication
+        - Landscape ecology
+        - One Health
+        - INLA
+        - R
+        - Reproducible workflows
+        - Interdisciplinary research
+
+- title: Professional Experience - Research
+  type: time_table
+  contents:
+    - title: Postdoctoral Fellow in Epidemiology and One Health
+      institution: School of Veterinary Sciences, Massey University, New Zealand
+      year: 2023 - 2024
+      description:
+        - Linking Habitat Fragmentation and Biodiversity Loss to the Risk of Infectious Disease Emergence.
+    - title: Postdoctoral Fellow in Disease Ecology
+      institution: School of Veterinary Sciences, Massey University, New Zealand
+      year: 2020 - 2023
+      description:
+        - Linking Habitat Fragmentation and Biodiversity Loss to the Risk of Infectious Disease Emergence.
+    - title: Postdoctoral Fellow in Disease Ecology
+      institution: School of Veterinary Sciences, Massey University, New Zealand
+      year: 2020
+      description:
+        - Unpacking infection spillover dynamics.
+    - title: Visitor Researcher (sandwich PhD)
+      institution: Massey University, New Zealand
+      year: 2018 - 2019
+      description:
+        - FAPESP projects on landscape effects and spatiotemporal dynamics of hantavirus disease.
+    - title: Visitor Researcher (sandwich MSc)
+      institution: Louisiana State University and Texas Tech University, USA
+      year: 2013 - 2014
+      description:
+        - Influence of local and landscape filters in neotropical bat diversity within Brazilian savanna.
+    - title: Intern
+      institution: Federal University of São Carlos (UFSCar), Brazil
+      year: 2007 - 2010
+      description: Tutorial education program.
+
+- title: Leadership
+  type: time_table
+  contents:
+    - title: Co-chair
+      institution: IUCN CEM Human Health and Ecosystem Management Thematic Group
+      year: 2022 - 2025
+    - title: Media Coordinator
+      institution: MEpiLegends, Massey Green impact team
+      year: 2024
+
+- title: Other Field Work
+  type: time_table
+  contents:
+    - title: Hemolymph Sampling from Freshwater Mussels for Toxoplasmosis Screening
+      year: 2024
+      description:
+        - Abi Shoup - PhD project on Enlisting Kākahi - developing a model system to protect Māui dolphins from toxoplasmosis (72h).
+    - title: Viral Shedding by Flying Foxes in Gold Coast
+      year: 2018
+      description:
+        - Devin Jone's PhD project on flying foxes and virology (6h).
+    - title: Cave Soil Sampling in Terra Ronca State
+      year: 2017
+      description:
+        - Caio C. P. Paula - PhD project in one of the largest Cerrado karstic areas in Brazil (36h).
+    - title: Edge Effects in São Carlos
+      year: 2015
+      description:
+        - Pavel Dodonov's PhD project on edge effects in a Cerrado area in Brazil (12h).
+    - title: Bats and Hantavirus in SP
+      year: 2013-2014
+      description:
+        - Gilberto Sabino-Santos Jr's PhD project on virology (100h).
+    - title: Serra do Mar National Park
+      year: 2012
+      description:
+        - Latin American course on frugivory and seed dispersal by mammals and birds field course (15 days).
+    - title: Plant Sampling in Wetlands
+      year: 2010
+      description:
+        - Fernanda Tiberio's project on functional diversity of plants in an estuary in southeastern Brazil (80h).
+    - title: Field Biologist
+      year: 2011
+      description:
+        - Fauna monitoring (Chiroptera) in Jirau, Brazil (360h). Company: Arcadis Tetraplan.
+    - title: Field Biologist
+      year: 2011
+      description:
+        - Fauna monitoring (Chiroptera) in Tunas do Paraná, Brazil (360h). Company: CIA Ambiental.
+    - title: Intern
+      year: 2009-2010
+      description:
+        - Bat telemetry (480 h). Institution: Federal University of São Carlos (UFSCar), Brazil.
+    - title: Intern
+      year: 2008
+      description:
+        - Wild animal care intern (144 h): mammals, birds, and reptiles. Institution: Ecological Park PESC, São Carlos, Brazil.
+    - title: Bauhinia holophylla Population Ecology
+      year: 2007
+      description:
+        - Julia R. Estevao's project on population ecology of a bat-pollinated plant in a Cerrado area in Brazil (30 h).
+
+- title: Professional Experience - Teaching
+  type: time_table
+  contents:
+    - title: Course Coordinator
+      institution: São Paulo State University (UNESP), Brazil
+      year: 2019
+      description:
+        - Statistical Models in Ecology (30 h), undergraduate course (Ecology).
+    - title: Course Coordinator
+      institution: São Paulo State University (UNESP), Brazil
+      year: 2016
+      description:
+        - Community Ecology (60 h), undergraduate course (Biology).
+    - title: Course Coordinator
+      institution: São Paulo State University (UNESP), Brazil
+      year: 2015
+      description:
+        - Ecosystems (60 h), undergraduate course (Biology).
+
+- title: Guest Lecturing
+  type: time_table
+  contents:
+    - title: Integrative Studies in Veterinary Science IV 227325
+      institution: School of Veterinary Science, Massey University
+      year: 2024
+      description:
+        - Mentoring research project proposal development - One Health.
+    - title: One Health News
+      institution: Hopkirk Research Institute, Massey University, New Zealand
+      year: 2024
+    - title: Veterinary Public Health Tutorials
+      institution: School of Veterinary Science, Massey University, New Zealand
+      year: 2023
+      description:
+        - Artificial intelligence and zoonotic spillover.
+    - title: Embracing the Bots
+      institution: Hopkirk Research Institute, Massey University, New Zealand
+      year: 2023
+    - title: UN SDGs and Your Research
+      institution: Hopkirk Research Institute, Massey University, New Zealand
+      year: 2022
+    - title: Science Communication: Your Voice in English
+      institution: São Paulo State University (UNESP), Brazil
+      year: 2022
+    - title: Strategies for Improving Reproducibility in Science
+      institution: Hopkirk Research Institute, Massey University, New Zealand
+      year: 2021
+    - title: Unhealthy Landscapes and Rodentization in Brazil
+      institution: Hopkirk Research Institute, Massey University, New Zealand
+      year: 2018
+    - title: The Future of Zoonotic Risk Prediction
+      institution: USP Sao Paulo University
