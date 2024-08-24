@@ -1,11 +1,15 @@
-title: Curriculum Vitae
-author:
-  name: Dr Renata Muylaert
-  affiliation: 
-    - Molecular Epidemiology and Public Health Laboratory
-    - School of Veterinary Science, Massey University
-    - Palmerston North, New Zealand
-
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Dr. Renata Muylaert
+    - name: Affiliation
+      value: Molecular Epidemiology and Public Health Laboratory, School of Veterinary Science, Massey University, Palmerston North, 4442, New Zealand
+    - name: Email
+      value: renatamuy@gmail.com
+    - name: Tel
+      value: +64 (210) 878 8433
+      
 sections:
   - title: Tertiary Education
     education:
@@ -21,19 +25,30 @@ sections:
         institution: Center of Biological Sciences, Federal University of S�o Carlos (UFSCAR), Brazil
         period: 2007-2011
         thesis_title: Interindividual variations in fruit preferences of the yellow-shouldered bat Sturnira lilium in a cafeteria experiment
-
-  - title: Productivity Indicators
-    google_scholar_metrics:
-      citations: 1523
-      h_index: 22
-      i10_index: 33
-
-  - title: Proficiency in Languages
-    languages:
-      - name: Portuguese
-        proficiency: First language
-      - name: English
-        proficiency: Fluent, Academic IELTS
-      - name: Spanish
-        proficiency: Basic
         
+- title: Education
+  type: time_table
+  contents:
+    - title: Doctor in Ecology and Biodiversity
+      institution: Department of Ecology, São Paulo State University (UNESP), Brazil
+      year: 2015 - 2019
+      description:
+        - Eco-epidemiology and spatiotemporal dynamics of hantavirus disease with contributions to open data generation and use.
+    - title: Master of Science (Zoology)
+      institution: Department of Ecology, São Paulo State University (UNESP), Brazil
+      year: 2012 - 2014
+      description:
+        - Multi-scale landscape influences and fragmentation threshold in bats in the Cerrado.
+    - title: Bachelor of Biological Sciences
+      institution: Center of Biological Sciences, Federal University of São Carlos (UFSCAR), Brazil
+      year: 2007 - 2011
+      description:
+        - Interindividual variations in fruit preferences of the yellow-shouldered bat Sturnira lilium in a cafeteria experiment.
+- title: Productivity Indicators
+  type: list
+  contents:
+    - Citations: 1532
+    - h-index: 22
+    - i10-index: 33
+
+
