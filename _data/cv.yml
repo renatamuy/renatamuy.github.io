@@ -3,95 +3,177 @@
   contents:
     - name: Full Name
       value: Renata Muylaert
-    - name: Date of Birth
-      value: 14th March 1879
     - name: Languages
-      value: English
+      value: English, Portuguese
+      
+  - title: Academic links
+    links:
+      - title: Linktree
+        url: https://linktr.ee/muymaps
+      - title: Orcid
+        url: https://orcid.org/0000-0002-6466-6210
+      - title: Google Scholar
+        url: https://scholar.google.com/citations?hl=en&user=psh9sXwAAAAJ&view_op=list_works&sortby=pubdate
+      - title: Scopus
+        url: https://www.scopus.com/authid/detail.uri?authorId=56115267900
+      - title: Research Gate
+        url: https://www.researchgate.net/profile/Renata-Muylaert
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+  - title: Tertiary education
+    education:
+      - degree: Doctor in Ecology and Biodiversity
+        institution: São Paulo State University (UNESP), Brazil
+        years: 2015-2019
+        thesis: Eco-epidemiology and spatiotemporal dynamics of hantavirus disease with contributions to open data generation and use.
+      - degree: Master of Science (Zoology)
+        institution: São Paulo State University (UNESP), Brazil
+        years: 2012-2014
+        thesis: Multi-scale landscape influences and fragmentation threshold in bats in the Cerrado.
+      - degree: Bachelor of Biological Sciences
+        institution: Federal University of São Carlos (UFSCAR), Brazil
+        years: 2007-2011
+        thesis: Interindividual variations in fruit preferences of the yellow-shouldered bat Sturnira lilium in a cafeteria experiment.
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+  - title: Productivity indicators
+    metrics:
+      citations: 1543
+      h_index: 22
+      i10_index: 33
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+  - title: Proficiency in languages
+    languages:
+      - name: Portuguese
+        level: First language
+      - name: English
+        level: Fluent (Academic IELTS)
+      - name: Spanish
+        level: Basic
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+  - title: Academic expertise
+    expertise:
+      - Spatial ecology
+      - Biodiversity and Conservation
+      - Disease ecology
+      - Spatial-temporal modelling
+      - Emerging infectious diseases
+      - Climate change
+      - Geographic information system (GIS)
+      - Network science
+      - Science communication
+      - Landscape ecology
+      - One Health
+      - INLA
+      - R
+      - Reproducible workflows
+      - Interdisciplinary research
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+  - title: Professional experience - Research
+    positions:
+      - title: Postdoctoral fellow in Epidemiology and One Health
+        institution: School of Veterinary Sciences, Massey University, New Zealand
+        years: 2023-2024
+        project: Linking Habitat Fragmentation and Biodiversity Loss to the Risk of Infectious Disease Emergence.
+      - title: Postdoctoral fellow in Disease Ecology
+        institution: School of Veterinary Sciences, Massey University, New Zealand
+        years: 2020-2023
+        project: Linking Habitat Fragmentation and Biodiversity Loss to the Risk of Infectious Disease Emergence.
+      - title: Postdoctoral fellow in Disease Ecology
+        institution: School of Veterinary Sciences, Massey University, New Zealand
+        years: 2020
+        project: Unpacking infection spillover dynamics.
+      - title: Visitor researcher (sandwich PhD)
+        institution: Massey University, New Zealand
+        years: 2018-2019
+        project: Landscape effects and the interaction between mammals and hantavirus in the Atlantic Forest.
+      - title: Visitor researcher (sandwich MSc)
+        institution: Louisiana State University and Texas Tech University, USA
+        years: 2013-2014
+        project: Influence of local and landscape filters in neotropical bat diversity within Brazilian savanna.
+      - title: Intern
+        institution: Federal University of São Carlos (UFSCar), Brazil
+        years: 2007-2010
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+  - title: Leadership
+    positions:
+      - title: Co-chair
+        organization: IUCN CEM Human Health and Ecosystem Management Thematic Group
+        years: 2022-2025
+      - title: Media coordinator
+        organization: Massey Green Impact team
+        years: 2024
+      
+  - title: Other field work
+    fieldwork:
+      - title: Hemolymph sampling from freshwater mussels
+        project: Abi Shoup's PhD project on toxoplasmosis screening
+        year: 2024
+      - title: Viral shedding by flying foxes in Gold Coast
+        project: Devin Jone's PhD project on flying foxes and virology
+        year: 2018
+      - title: Cave soil sampling in Terra Ronca State
+        project: Caio C. P. Paula's PhD project in the Cerrado karstic areas
+        year: 2017
+      - title: Edge effects in São Carlos
+        project: Pavel Dodonov's PhD project
+        year: 2015
+      - title: Bats and hantavirus in São Paulo
+        project: Gilberto Sabino-Santos Jr's PhD project
+        years: 2013-2014
+      - title: Serra do Mar National Park
+        project: Latin American course on frugivory and seed dispersal by mammals and birds
+        year: 2012
+      - title: Plant sampling in Wetlands
+        project: Fernanda Tiberio's project on functional diversity of plants
+        year: 2010
+      - title: Field Biologist
+        company: Arcadis Tetraplan
+        project: Fauna monitoring (Chiroptera)
+        years: 2011
+      - title: Field Biologist
+        company: CIA Ambiental
+        project: Fauna monitoring (Chiroptera)
+        years: 2011
+      - title: Intern
+        institution: Federal University of São Carlos (UFSCar), Brazil
+        project: Bat telemetry
+        years: 2009-2010
+      - title: Wild animal care intern
+        institution: Ecological Park PESC, São Carlos, Brazil
+        project: Mammals, birds, and reptiles care
+        year: 2008
+      - title: Bauhinia holophylla population ecology
+        project: Julia R. Estevao's project on bat-pollinated plants
+        year: 2007
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+  - title: Professional experience - Teaching
+    subcategories:
+      undergraduate_courses_coordinated:
+        - title: Statistical Models in Ecology
+          institution: São Paulo State University (UNESP), Brazil
+          year: 2019
+        - title: Community Ecology
+          institution: São Paulo State University (UNESP), Brazil
+          year: 2016
+        - title: Ecosystems
+          institution: São Paulo State University (UNESP), Brazil
+          year: 2015
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+      guest_lecturing:
+        - title: Integrative Studies in Veterinary Science IV
+          institution: Massey University
+          year: 2024
+        - title: One Health News
+          institution: Hopkirk Research Institute, Massey University
+          year: 2024
+        - title: Veterinary Public Health Tutorials
+          institution: School of Veterinary Science, Massey University
+          year: 2023
+        - title: Embracing the bots
+          institution: Hopkirk Research Institute, Massey University
+          year: 2023
+        - title: UN SDGs and your research
+          institution: Hopkirk Research Institute, Massey University
+          year: 2022
+        - title: Science communication: your voice in English
+          institution: São Paulo State University (UNESP), Brazil
+          year: 2022
