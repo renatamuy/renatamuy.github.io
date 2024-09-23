@@ -9,51 +9,65 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: UNESP 
+    - title: PhD in Ecology and Biodiversity
+      institution: UNESP Rio Claro
       year: 2019
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      description: 
+        - Eco-epidemiology and spatiotemporal dynamics of hantavirus with contributions to the generation and use of open data
+    - title: Masters in Zoology
+      institution: UNESP Rio Claro
+      year: 2014
+      description: 
+        - Multi-scale landscape influences and fragmentation threshold on bats in the Cerrado
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral fellow in Epidemiology and One Health
+      institution: School of Veterinary Sciences, Massey University, New Zealand
+      year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Project: Linking Habitat Fragmentation and Biodiversity Loss to the
+Risk of Infectious Disease Emergence.
+
+      - title: Postdoctoral fellow in Disease Ecology
+      institution: School of Veterinary Sciences, Massey University, New Zealand.
+      year: 2020 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Linking Habitat Fragmentation and Biodiversity Loss to the Risk of Infectious Disease Emergence.
+  
+      - title: Postdoctoral fellow in Disease Ecology
+      institution: School of Veterinary Sciences, Massey University, New Zealand.
+      year: 2020
+      description:
+        - Unpacking infection spillover dynamics.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Academic expertise.
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Spatial Ecology.
+        - Biodiversity and Conservation.
+        - Spatial-temporal modelling.
+        - Emerging infectious diseases.
+        - Climate change.
+        - Network science.
+        - GIS.
+        - One Health.
+        - INLA.
+        - R.
+        - Reproducible workflows.
+        - Cross-disciplinary research.
+        - Knowledge synthesis.
+    - title: Science Communication.
       items:
-        - Description 1.
-        - Description 2.
+        - Educational material development.
+        - Research dissemination.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Bread making, travel, writing, singing, biking, dancing, yoga.
+    
+    
