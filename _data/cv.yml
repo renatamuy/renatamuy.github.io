@@ -13,12 +13,12 @@
       institution: UNESP Rio Claro
       year: 2019
       description: 
-        - Eco-epidemiology and spatiotemporal dynamics of hantavirus with contributions to the generation and use of open data
+        - Eco-epidemiology and spatiotemporal dynamics of hantavirus with contributions to the generation and use of open data.
     - title: Masters in Zoology
       institution: UNESP Rio Claro
       year: 2014
       description: 
-        - Multi-scale landscape influences and fragmentation threshold on bats in the Cerrado
+        - Multi-scale landscape influences and fragmentation threshold on bats in the Cerrado.
 
 - title: Experience
   type: time_table
@@ -27,20 +27,19 @@
       institution: School of Veterinary Sciences, Massey University, New Zealand
       year: 2023 - 2024
       description:
-        - Project: Linking Habitat Fragmentation and Biodiversity Loss to the
-Risk of Infectious Disease Emergence.
+        - Project Linking Habitat Fragmentation and Biodiversity Loss to the Risk of Infectious Disease Emergence.
 
       - title: Postdoctoral fellow in Disease Ecology
       institution: School of Veterinary Sciences, Massey University, New Zealand.
       year: 2020 - 2023
       description:
-        - Linking Habitat Fragmentation and Biodiversity Loss to the Risk of Infectious Disease Emergence.
+        - Project Linking Habitat Fragmentation and Biodiversity Loss to the Risk of Infectious Disease Emergence.
   
       - title: Postdoctoral fellow in Disease Ecology
       institution: School of Veterinary Sciences, Massey University, New Zealand.
       year: 2020
       description:
-        - Unpacking infection spillover dynamics.
+        - Project Unpacking infection spillover dynamics.
 
 - title: Academic Interests
   type: nested_list
@@ -69,5 +68,3 @@ Risk of Infectious Disease Emergence.
   type: list
   contents:
     - <u>Hobbies:</u> Bread making, travel, writing, singing, biking, dancing, yoga.
-    
-    
