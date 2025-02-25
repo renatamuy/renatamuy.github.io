@@ -10,7 +10,7 @@ related_publications: true
 
 I invest in impactful research and outreach collaborations with tangible outcomes enhanced by multisectoral actors. Focuses on bridging connections between health and biodiversity conservation professionals to tackle pressing concerns, especially considering the global post-pandemic impacts.
 
-Read more here: https://www.massey.ac.nz/about/news/understanding-the-risk-transmission-of-sars-like-coronaviruses-from-wildlife-to-humans/
+Read more here.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
