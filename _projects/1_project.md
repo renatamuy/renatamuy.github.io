@@ -2,7 +2,7 @@
 layout: page
 title: Linking Habitat Fragmentation and Biodiversity Loss to the Risk of Infectious Disease Emergence
 description: 
-img: assets/img/12.jpg
+img: assets/img/6.jpg
 importance: 1
 category: work
 related_publications: true
@@ -24,7 +24,7 @@ Read more here.
     </div>
 </div>
 <div class="caption">
-    Caption: On the left, . Right:.
+    Caption
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,7 +32,7 @@ Read more here.
     </div>
 </div>
 <div class="caption">
-    Caption: .
+    Caption
 </div>
 
 {% endraw %}

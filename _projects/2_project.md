@@ -2,7 +2,7 @@
 layout: page
 title: Multisectoral approach
 description: Science, Education and Outreach
-img: assets/img/3.jpg
+img: assets/img/2.jpg
 importance: 2
 category: work
 giscus_comments: false
@@ -23,7 +23,7 @@ Our commitment to cultural sensitivity and multisectoral approach ensures that o
     </div>
 </div>
 <div class="caption">
-    Caption:.
+    Caption
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -31,7 +31,7 @@ Our commitment to cultural sensitivity and multisectoral approach ensures that o
     </div>
 </div>
 <div class="caption">
-    Caption:.
+    Caption
 </div>
 
 
