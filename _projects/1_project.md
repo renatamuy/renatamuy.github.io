@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: Biodiversity and Health
+title: Biodiversity and Health
+description: Biodiversity and Health research (focus on infectious disease risk)
 img: assets/img/1.jpg
 importance: 1
 category: work
@@ -10,9 +10,6 @@ related_publications: true
 
 
 I invest in impactful research and outreach collaborations with tangible outcomes enhanced by multisectoral actors. My focus is bridging connections between health and biodiversity conservation professionals to tackle pressing concerns, especially considering the global post-pandemic impacts.
-
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
 
 <div class="row">
@@ -39,7 +36,4 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 
 
-Rread more about the project <a href="https://getbootstrap.com/docs/4.4/layout/grid/">here</a> .
-
-
-{% endraw %}
+Read more about the project <a href="https://getbootstrap.com/docs/4.4/layout/grid/">here</a>.
