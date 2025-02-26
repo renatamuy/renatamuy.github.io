@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Surviving in Science 
-description: a project that redirects to another website
-img: assets/img/3.jpg
-redirect: marcoarmello.wordpress.com
+title: Blog
+description: Blog website
+img: assets/img/7.jpg
+redirect: https://marcoarmello.wordpress.com
 importance: 3
 category: work
 ---
 
-Blog.
+Blog
 
 {% endraw %}
