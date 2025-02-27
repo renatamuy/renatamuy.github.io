@@ -24,7 +24,7 @@ I invest in impactful research and outreach collaborations with tangible outcome
     </div>
 </div>
 <div class="caption">
-    On the left, a map showing hotspots for different variables relevant for zoonotic risk assessments. Middle, spatial clusters of variables that represent risk levels across different hotspots. On the right, travel time to health care in different transmission scenarios for Sarbecoviruses (Muylaert et al. 2023 Nature Communications).
+    On the left, a map showing hotspots for different variables relevant for zoonotic risk assessments. Middle, spatial clusters of variables that represent risk levels across different hotspots. On the right, travel time to health care in different transmission scenarios for Sarbecoviruses {% cite Muylaert2023 %}.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,7 +32,7 @@ I invest in impactful research and outreach collaborations with tangible outcome
     </div>
 </div>
 <div class="caption">
-    These are regions that have hotspots similarities across Sarbecovirus bat hosts main natural areas of distribution.
+    These are regions that have hotspots similarities across Sarbecovirus bat hosts main natural areas of distribution {% cite Muylaert2022 %}.
 </div>
 
 
