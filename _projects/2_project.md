@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: Communication, educational materials ad outreach
+title: Communication and outreach
+description: STEM comm, educational material and outreach
 img: assets/img/3.jpg
 importance: 2
 category: work
