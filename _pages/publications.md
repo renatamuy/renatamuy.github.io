@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Research in reversed chronological order powered by jekyll-scholar.
+description: Research in reversed chronological order.
 nav: true
 nav_order: 2
 ---

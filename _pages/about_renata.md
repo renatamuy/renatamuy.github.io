@@ -1,8 +1,8 @@
 
 
-## Partner labs
+## Labs
 
-:white_check_mark: [mEpilab](https://ns-proxy1.massey.ac.nz/massey/expertise/profile.cfm?stref=117322) :mask: :earth_asia: :bat:
+:white_check_mark: [Disease Ecology Lab](https://www.sydney.edu.au/science/schools/sydney-school-of-veterinary-science.html) :mask: :earth_asia: :bat:
 
 :white_check_mark: [Ecological Synthesis Lab](https://marcomellolab.wordpress.com/) :chart_with_upwards_trend: :sparkler: 
 
